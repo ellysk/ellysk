@@ -65,12 +65,4 @@ When I'm not coding, I’m either diving into strategy, exploring nature, or bin
 
 ---
 
-### ⚡ GitHub Stats
-
-![Eliuter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliuterkoka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliuterkoka&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 Let’s build. Let’s innovate. Let’s vibe. 🚀✨
