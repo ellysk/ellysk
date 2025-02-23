@@ -52,7 +52,6 @@ When I'm not coding, I’m either diving into strategy, exploring nature, or bin
 
 ### 🔗 Let’s Connect
 
-- 🌐 [Portfolio Website](#) *(Coming Soon!)*  
 - 🐦 [Twitter](https://x.com/elly_sk?s=21&t=HD1pzTPxcvgrpRA-dKtWUw)
 
 ---
